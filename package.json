@@ -1,0 +1,19 @@
+{
+  "name": "objects-homework",
+  "version": "1.0.0",
+  "description": "objects mavzusidan uyga vazifa",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "typescript objects"
+  },
+  "keywords": [
+    "typescript",
+    "objects"
+  ],
+  "author": "Mukhtordev",
+  "license": "ISC"
+}
